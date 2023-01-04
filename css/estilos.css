@@ -21,3 +21,11 @@ p1{
     padding: 5;
     color: blueviolet;
 }
+
+p2{
+    font-size: 5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5;
+    padding: 5;
+    color: brown;
+}
